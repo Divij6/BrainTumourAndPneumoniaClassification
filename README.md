@@ -114,13 +114,6 @@ python BrainTumoour/gui.py
 
 Before using prediction or the GUI, train the brain tumour model so `BrainTumoour/brain_tumor_model.h5` exists.
 
-## Cleanup Notes
-
-- Generated Python cache files were removed.
-- Windows `Zone.Identifier` download metadata files were removed.
-- The old nested project folder was replaced with the cleaner `BrainTumoour` directory.
-- The GUI no longer depends on machine-specific external image assets.
-
 ## Disclaimer
 
 This project is for learning and experimentation only. It is not intended for clinical diagnosis or medical decision-making.
